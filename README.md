@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 🚀 Open Source Contributions
+### 🚀 Open Source 
 
 - 🧠 [Cboard](https://github.com/cboard-org/cboard) 
   - ✅ Fixed [Issue #1786](https://github.com/cboard-org/cboard/issues/1786): Disabled horizontal scroll in large boards
